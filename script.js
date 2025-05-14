@@ -1,4 +1,4 @@
-const API_URL = "https://your-api-url.com/signals"; // Replace with your FastAPI backend
+const API_URL = "https://marketsignal.onrender.com/signals"; // Replace with your FastAPI backend
 
 fetch(API_URL)
   .then(response => response.json())
